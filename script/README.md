@@ -1,3 +1,3 @@
-An image of the final result can be seen below:
+The final result of enrichment can be seen below:
 
-<img src="/images/result.png">
+![Enriched Transactions](images/result.png)
