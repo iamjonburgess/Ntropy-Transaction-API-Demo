@@ -7,11 +7,11 @@ An API key is needed and can be requested at https://ntropy.com.
 
 ### Helpful links:
 
-*[About Ntropy](https://ntropy.com/company/about-us)
+* [About Ntropy](https://ntropy.com/company/about-us)
 
-*[Quick Start](https://developers.ntropy.com/docs/quick-start/)
+* [Quick Start](https://developers.ntropy.com/docs/quick-start/)
 
-*[API Documentation](https://developers.ntropy.com/api/)
+* [API Documentation](https://developers.ntropy.com/api/)
 
 ---
 
